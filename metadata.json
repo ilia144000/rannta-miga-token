@@ -1,0 +1,18 @@
+{
+  "name": "MIGA",
+  "symbol": "MIGA",
+  "description": "MIGA — Make Iran Great Again. The first smart Jetton on TON with embedded Smart Transfer Guard™. A token of legacy, peace, and rebirth.",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/ilia144000/rannta-miga-token/main/MIGA_token_logo_512x512_optimized.png",
+  "website": "https://rannta.com/miga",
+  "telegram": "https://t.me/Rannta_coin",
+  "twitter": "https://x.com/ranntacoin",
+  "instagram": "https://www.instagram.com/ranntacoin",
+  "features": [
+    "Smart Transfer Guard™ (prevents transfers to incompatible addresses, enhancing user security)",
+    "Admin Lock (irreversible; the owner can renounce control forever)",
+    "Airdrop-ready for community distribution",
+    "Symbolic Token — Griffin, Olive Branch, and Cyrus Cylinder"
+  ],
+  "creator": "UQDKJfVh5jnM0eGlOanDXWl6d8fleIZjoc7SHakWuxS6m4bL"
+}
